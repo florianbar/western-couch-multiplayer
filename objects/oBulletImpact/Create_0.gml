@@ -1,0 +1,1 @@
+//audio_play_sound(sHit, 1, 0);

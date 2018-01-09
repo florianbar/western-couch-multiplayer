@@ -1,0 +1,1 @@
+room_goto(sword_room);
